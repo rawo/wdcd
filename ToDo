@@ -1,0 +1,11 @@
+* Device profile shall be declared for specific device and application.
+* Reconfigure device when active application changes and it is supported by profile.
+* Create a Makefile
+* wdcd.log files in common directory. Consider ~/.wdcd/wdcd.log when runing as standard user 
+* Tablet detection using "xsetwacom list dev". Optionally.
+* Some fancy GUI for configuring Wacom devices. Dedicated for xfce4.x.
+
+
+Done
+* Make path to config file configurable from command line
+* wdcd as daemon
